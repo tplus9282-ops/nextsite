@@ -1,0 +1,115 @@
+Build a premium, modern, responsive website for my web design agency called "NextSite".
+
+Use the uploaded logo throughout the website (header and favicon if possible).
+
+Style:
+- Premium and futuristic.
+- Blue, cyan and white color palette matching the logo.
+- Glassmorphism UI.
+- Smooth animations.
+- Dark sections mixed with light backgrounds.
+- Mobile-first responsive design.
+- SEO optimized.
+- Fast loading.
+- HTML, CSS and JavaScript only (no React, no backend).
+
+Pages/Sections:
+
+1. Hero
+Headline:
+"Professional Websites That Grow Your Business"
+
+Subtitle:
+"We design modern, fast and responsive websites for local businesses worldwide."
+
+Buttons:
+- Get Your Website
+- View Portfolio
+
+2. About
+Introduce NextSite as a professional web design agency helping businesses build a strong online presence.
+
+3. Services
+Display beautiful cards:
+
+* Business Websites
+* Restaurant Websites
+* Barber Shop Websites
+* Medical Websites
+* Real Estate Websites
+* Landing Pages
+* Website Redesign
+* SEO Optimization
+* Google Maps Integration
+* Contact Forms
+* WhatsApp Integration
+* Domain & Hosting Setup
+
+4. Why Choose Us
+- Modern Design
+- Mobile Friendly
+- Fast Loading
+- Affordable Pricing
+- SEO Ready
+- Lifetime Support
+
+5. Portfolio
+Create six premium project cards with realistic screenshots placeholders.
+
+6. Process
+1. Contact
+2. Planning
+3. Design
+4. Development
+5. Launch
+
+7. Testimonials
+Create 3 realistic client testimonials.
+
+8. Pricing
+
+Starter — $99
+Professional — $199
+Premium — Custom Quote
+
+9. FAQ
+
+10. Contact
+
+Include:
+WhatsApp button
+Email
+Contact Form
+Google Maps placeholder
+
+11. Footer
+
+Social Icons
+Copyright
+Privacy Policy
+Terms
+
+Technical Requirements:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Smooth scrolling
+- Sticky navbar
+- Animated counters
+- Scroll animations
+- Beautiful icons
+- Modern Google Font (Poppins)
+- Optimized for Google PageSpeed
+- Ready to deploy on Netlify.
+- Add a floating WhatsApp button visible on all pages.
+
+WhatsApp Link:
+https://tinyurl.com/nextsite0
+
+Requirements:
+- Fixed at the bottom-right corner.
+- Green circular button with the official WhatsApp icon.
+- Smooth pulse animation.
+- On hover, display the text "Chat with us on WhatsApp".
+- Clicking the button opens the WhatsApp link in a new tab.
+- Mobile-friendly and always visible while scrolling.

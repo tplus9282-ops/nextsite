@@ -1,0 +1,93 @@
+Build a modern, responsive single-page website for a local business called "{Business Name}" located in "{Location}".
+
+Design Requirements:
+- Clean, premium, and professional design.
+- Summer-inspired color palette with blue, turquoise, white, and subtle gradients.
+- Poolside aesthetic with water textures and modern UI elements.
+- Fully responsive for desktop, tablet, and mobile.
+- Smooth scrolling navigation.
+- Modern typography using Google Fonts (Poppins or Inter).
+- Soft animations and hover effects.
+- Fast loading and SEO-friendly structure.
+
+Use the business photo I provide as the main featured image in the Hero section.
+
+Business Information:
+{Paste business information here}
+
+Website Sections:
+
+1. Hero Section
+- Large pool background image.
+- Main business photo prominently displayed.
+- Headline:
+  "Crystal Clear Pools in {Location}"
+- Short subtitle describing the business.
+- Primary CTA button: "Call Now"
+- Secondary CTA: "Get Free Quote"
+
+2. About Us
+- Brief story about the company.
+- Information about the owner.
+- Mission statement.
+- Years of experience.
+
+3. Services
+Display each service in modern cards with icons:
+- Pool Cleaning
+- Weekly Maintenance
+- Pool Repairs
+- Equipment Installation
+- Seasonal Opening
+- Seasonal Closing
+- Water Testing
+- Emergency Services
+
+4. Why Choose Us
+Include feature cards:
+- Licensed & Insured
+- Affordable Pricing
+- Fast Response
+- 5-Star Customer Service
+- Experienced Technicians
+
+5. Testimonials
+Include three professional sample customer reviews with star ratings.
+
+6. Gallery
+Responsive image grid using placeholder images.
+
+7. Contact
+Display:
+- Phone Number
+- Email Address
+- Business Address
+- Business Hours
+
+Include a modern contact form with:
+- Name
+- Phone
+- Email
+- Message
+- Submit Button
+(The form is visual only; no backend functionality.)
+
+8. Footer
+Include:
+- Business Name
+- Copyright
+- Social Media Icons
+- Privacy Policy
+- Terms of Service
+
+Technical Requirements:
+- HTML5
+- Tailwind CSS
+- Vanilla JavaScript only
+- No backend or database
+- Clean, well-organized code
+- SEO meta tags
+- Accessible design (WCAG-friendly)
+- Lazy loading for images
+- Smooth scrolling
+- Sticky navigation bar

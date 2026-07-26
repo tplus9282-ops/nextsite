@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "NextSite - Web Design Agency"
+version = "1.0.0"
+id = "artifacts/nextsite"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22760
+
+[services.development]
+run = "pnpm --filter @workspace/nextsite run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nextsite", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nextsite/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22760"
+BASE_PATH = "/"
